@@ -21,16 +21,15 @@ This Django CRM project is a basic Customer Relationship Management system devel
 ## Installation
 1. Clone the repository to your local machine.
 2. Create a virtual environment and activate it.
-3. Install dependencies from the `requirements.txt` file.
-4. Set up the database and run migrations.
-5. Create a superuser for admin access.
-6. Run the development server and access the CRM in your browser.
+3. Set up the database and run migrations.
+4. Create a superuser for admin access.
+5. Run the development server and access the CRM in your browser.
 
 ## Technologies Used
 - Django: Web framework for backend development.
 - Python: Programming language used with Django.
 - HTML/CSS/JavaScript: Frontend development.
-- MySql: For development of Database.
+- MySql: For the development of a Database.
 - Bootstrap: Frontend framework for responsive design.
 
 Email for More Information
